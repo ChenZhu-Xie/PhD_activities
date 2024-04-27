@@ -1,0 +1,243 @@
+
+GitHub -「Stardust Auxiliary Tools」for「DDTank」—— A「turn-based shooting game」similar to「Angry Birds」
+
+「弹弹堂」辅助瞄准工具「星尘辅助」—— 类似「愤怒的小鸟」的「回合制射击游戏」的「数值求解程序」
+
+
+
+News Report - Grand Prize: The 14th "Challenge Cup" Liaoning Province Extracurricular Academic and Technological Works Competition for College Students in 2019
+
+自研『弹弹堂』手游、页游、手游模拟器『全平台辅助』，获得『大挑特等奖』
+
+
+
+
+College News - Participating in the 2019 Northeast Three Provinces Youth Innovation and Entrepreneurship Achievement Expo
+
+参展 2019 年『东北三省』青年创新创业成果博览会 ⇐『大学生挑战杯』获奖作品
+
+
+
+University Certification - English | CET-4 & CET-6 Grades
+
+英语水平 | 链接：东北大学2018-2019学年 “优秀团员（标兵）”和“优秀团干部（标兵）”评选名单公示
+
+
+
+✔ Hello, there! This is Xiè Chén-Zhú,
+
+✎ I'm currently a PhD candidate 25.5' @ CEAS, NJU
+㊫ PhD 27' Optical Engineering | BSc 22' Applied Physics
+
+░░░　ⓂⓎ　ⓊⓃⒹⒺⓇⓁⓎⒾⓃⒼ　ⓋⒾⒺⓌⓈ　░░░
+
+🔓 I am utterly authentic and sincere, so much so that 
+🔓 even my privacy is not important to me.
+🧑‍🤝‍🧑 As what we are basically, deep deep down, far far in, 
+🧑‍🤝‍🧑 is simply the instantiated existence itself.
+
+▶ YouTube @xczphysics ◉ Livestream Everyday
+ - to explore fleeting opportunities amidst the time flow
+ - to flourish my inner orchard by tackling challenges
+ - to retrace the footprints of my lifelong expeditions
+ - to capture, document, and share my growth with you!
+
+🙋🏻‍♂️ Feel free to 
+💬 interact with me on LinkedIn, YouTube, or Twitter, 
+👁 or simply observe my "wave function" livestreaming, 
+🕓 at any time! (to check if ⇖ψ⇗ collapses :) 
+🗣 I'm excited about hearing your voice!
+
+░░░　ⒶⒸⒶⒹⒺⓂⒾⒸ　ⒷⒶⒸⓀⒼⓇⓄⓊⓃⒹ　░░░
+
+㊫ 22' to 27' - Optical Engineering @ CEAS, NJU
+★ CEAS - College of Engineering & Applied Sciences 
+★ NJU - Nanjing University @ JiangSu, China
+
+㊫ 18' to 22' - Applied Physics @ CS, NEU
+★ CS - College of Science
+★ NEU - Northeastern University @ ShenYang, China
+
+
+
+
+
+✔ Hello, there! This is Xiè Chén-Zhú, a physicist whose neural network wanders outside the well-trained neural networks of large language models (LLMs). 
+
+Two things I excel at happen to be areas where LLMs, along with all data-driven sciences they represent (e.g. PINN), aren't proficient: one is a ballistic trajectory prediction tool developed during my undergraduate studies, and the other is Nonlinear Fourier Optics theory established with 60,000 lines of python code during my doctoral program — both involve solving complex partial differential equations that reflect the objective physical reality surrounding us.
+
+Solving equations itself is equivalent to modeling: the solution method of equations (flowchart) is equivalent to the model weights and bias grid, but unlike data-driven models, the flowchart leading to analytical solutions of equations is the performance limit of LLMs, with lowest degrees of freedom, minimum parameter scale, highest self-information (entropy/density).
+
+░░░　ⓂⓎ　ⓊⓃⒹⒺⓇⓁⓎⒾⓃⒼ　ⓋⒾⒺⓌⓈ　░░░
+
+🔓 I am utterly authentic and sincere, so much so that 
+🔓 even my privacy is not important to me.
+🧑‍🤝‍🧑 As what we are basically, deep deep down, far far in, 
+🧑‍🤝‍🧑 is simply the instantiated existence itself.
+
+▶ YouTube @xczphysics ◉ Livestream Everyday
+ - to explore fleeting opportunities amidst the time flow
+ - to flourish my inner orchard by tackling challenges
+ - to retrace the footprints of my lifelong expeditions
+ - to capture, document, and share my growth with you!
+
+🙋🏻‍♂️ Feel free to 
+💬 interact with me on LinkedIn, YouTube, or Twitter, 
+👁 or simply observe my "wave function" livestreaming, 
+🕓 at any time! (to check if ⇖ψ⇗ collapses :) 
+🗣 I'm excited about hearing your voice!
+
+░░░　ⒶⒸⒶⒹⒺⓂⒾⒸ　ⒷⒶⒸⓀⒼⓇⓄⓊⓃⒹ　░░░
+
+✎ I'm currently a PhD candidate 25.5' @ CEAS, NJU
+㊫ PhD 27' Optical Engineering | BSc 22' Applied Physics
+
+㊫ 22' to 27' - Optical Engineering @ CEAS, NJU
+★ CEAS - College of Engineering & Applied Sciences 
+★ NJU - Nanjing University @ JiangSu, China
+
+㊫ 18' to 22' - Applied Physics @ CS, NEU
+★ CS - College of Science
+★ NEU - Northeastern University @ ShenYang, China
+
+
+
+
+
+✔ Hello, there! This is Xiè Chén-Zhú, a physicist whose neural network wanders outside the well-trained neural networks of large language models (LLMs). 
+
+Two things I excel at happen to be areas where LLMs, along with all data-driven large models (LMs) they represent (e.g. PINN), aren't proficient: one is a ballistic trajectory prediction tool developed during my undergraduate studies, and the other is Nonlinear Fourier Optics theory established with 60,000+ lines of python code during my doctoral program — both involve solving complex partial differential equations that reflect the objective physical reality surrounding us.
+
+Solving equations itself is equivalent to modeling: the solution method of equations (flowchart) is equivalent to the model weights and bias grid, but unlike data-driven models, the flowchart leading to analytical solutions of equations is the performance limit of LLMs, with lowest degrees of freedom, minimum parameter scale, highest self-information (entropy/density).
+
+Data-driven LMs are compressed representations of the human experiential world. However, the forefront of physics lacks sufficient data to feed into LMs: physicists already at the edge of human cognition cannot even predict the behavior of equations THEMSELFS with high speed-precision product, meaning that they cannot generate high-quality data massively. So, where can high-quality physical LMs, as anticipated, come from!
+
+Therefore, it is more appropriate to say that ✔ the minds of LMs are subsets of our minds, instead of saying that ✘ our minds are subsets of the minds of LMs.
+
+This means that we should not lose faith in humanity: physics, which is the mathematical language of our mother nature, will be our final refuge, and on this ground, even LMs will humble themselves.
+
+░░░　ⓂⓎ　ⓊⓃⒹⒺⓇⓁⓎⒾⓃⒼ　ⓋⒾⒺⓌⓈ　░░░
+
+🔓 I am utterly authentic and sincere, so much so that 
+🔓 even my privacy is not important to me.
+🧑‍🤝‍🧑 As what we are basically, deep deep down, far far in, 
+🧑‍🤝‍🧑 is simply the instantiated existence itself.
+
+▶ YouTube @xczphysics ◉ Livestream Everyday
+ - to explore fleeting opportunities amidst the time flow
+ - to flourish my inner orchard by tackling challenges
+ - to retrace the footprints of my lifelong expeditions
+ - to capture, document, and share my growth with you!
+
+🙋🏻‍♂️ Feel free to 
+💬 interact with me on LinkedIn, YouTube, or Twitter, 
+👁 or simply observe my "wave function" livestreaming, 
+🕓 at any time! (to check if ⇖ψ⇗ collapses :) 
+🗣 I'm excited about hearing your voice!
+
+░░░　ⒶⒸⒶⒹⒺⓂⒾⒸ　ⒷⒶⒸⓀⒼⓇⓄⓊⓃⒹ　░░░
+
+✎ I'm currently a PhD candidate 25.5' @ CEAS, NJU
+㊫ PhD 27' Optical Engineering | BSc 22' Applied Physics
+
+㊫ 22' to 27' - Optical Engineering @ CEAS, NJU
+★ CEAS - College of Engineering & Applied Sciences 
+★ NJU - Nanjing University @ JiangSu, China
+
+㊫ 18' to 22' - Applied Physics @ CS, NEU
+★ CS - College of Science
+★ NEU - Northeastern University @ ShenYang, China
+
+
+
+
+Hello, there! This is Xiè Chén-Zhú, a physicist whose neural network wanders outside the well-trained neural networks of large language models (LLMs). 
+
+Two things I excel at happen to be areas where LLMs, along with all data-driven large models (LMs) they represent (e.g. PINN), aren't proficient: one is a ballistic trajectory prediction tool developed during my undergraduate studies, and the other is Nonlinear Fourier Optics theory established with 60,000 lines of python code during my doctoral program — both involve solving complex partial differential equations (PDEs) that reflect the objective physical reality surrounding us.
+
+Data-driven LMs are compressed representations of the human experiential world. However, the forefront of physics lacks sufficient data to feed into LMs: physicists already at the edge of human cognition THEMSELFS cannot even predict the behavior of equations with high speed-precision-product, meaning that they cannot generate high-quality data massively. So, where can high-quality physical LMs, as anticipated, come from!
+
+Therefore, it is more appropriate to say that ✔ the minds of LMs are subsets of our minds, instead of saying that ✘ our minds are subsets of those of LMs.
+
+In other words, don't lose confidence in ourselves: physics — the mathematical language of our mother nature — the pinnacle of our human curiosity, imagination, and logic, will be our ultimate sanctuary, and on this ground, even LMs will humble themselves.
+
+░░░　ⓂⓎ　ⓊⓃⒹⒺⓇⓁⓎⒾⓃⒼ　ⓋⒾⒺⓌⓈ　░░░
+
+🔓 I am utterly authentic and sincere, so much so that 
+🔓 even my privacy is not important to me.
+🧑‍🤝‍🧑 As what we are basically, deep deep down, far far in, 
+🧑‍🤝‍🧑 is simply the instantiated existence itself.
+
+▶ YouTube @xczphysics ◉ Livestream Everyday
+ - to explore fleeting opportunities amidst the time flow
+ - to flourish my inner orchard by tackling challenges
+ - to retrace the footprints of my lifelong expeditions
+ - to capture, document, and share my growth with you!
+
+🙋🏻‍♂️ Feel free to 
+💬 interact with me on LinkedIn, YouTube, or Twitter, 
+👁 or simply observe my "wave function" livestreaming, 
+🕓 at any time! (to check if ⇖ψ⇗ collapses :) 
+🗣 I'm excited about hearing your voice!
+
+░░░　ⒶⒸⒶⒹⒺⓂⒾⒸ　ⒷⒶⒸⓀⒼⓇⓄⓊⓃⒹ　░░░
+
+✎ I'm currently a PhD candidate 25.5' @ CEAS, NJU
+㊫ PhD 27' Optical Engineering | BSc 22' Applied Physics
+
+㊫ 27' - Optical Engineering @ CEAS, NJU
+★ CEAS - College of Engineering & Applied Sciences 
+★ NJU - Nanjing University @ JiangSu, China
+
+㊫ 22' - Applied Physics @ CS, NEU
+★ CS - College of Science
+★ NEU - Northeastern University @ ShenYang, China
+
+
+
+
+Hello, there! This is Xiè Chén-Zhú, a physicist whose neural network wanders outside the well-trained neural networks of large language models (LLMs). 
+
+Two things I excel at happen to be areas where LLMs, along with all data-driven large models (LMs) they represent (e.g. PINN), aren't proficient: one is a ballistic trajectory prediction tool developed during my undergraduate studies, and the other is Nonlinear Fourier Optics established with 60,000 lines of python code during my doctoral program — both are white boxes analytically solving complex partial differential equations (PDEs) that reflect our surrounding reality using little parameters.
+
+Data-driven LMs are compressed representations of the human experiential world. However, the forefront of physics lacks sufficient data to feed into LMs: physicists already at the edge of human cognition THEMSELFS cannot even predict the behavior of equations with high speed-precision-product, meaning that high-quality data cannot be generate massively. So, where can high-quality physical LMs, as anticipated, come from!
+
+Therefore, it is more appropriate to say that ✔ the minds of LMs are subsets of our minds, instead of ✘ the reverse. In other words, don't lose confidence in ourselves: physics — the mathematical language of our mother nature — the pinnacle of our human curiosity, imagination, and logic, will be our ultimate sanctuary, and on this ground, even LMs will humble themselves.
+
+Pandora's Box that opens up the AGI, cannot be both Large & Opaque.
+
+░░░　ⓂⓎ　ⓊⓃⒹⒺⓇⓁⓎⒾⓃⒼ　ⓋⒾⒺⓌⓈ　░░░
+
+🔓 I am utterly authentic and sincere, so much so that 
+🔓 even my privacy is not important to me.
+🧑‍🤝‍🧑 As what we are basically, deep deep down, far far in, 
+🧑‍🤝‍🧑 is simply the instantiated existence itself.
+
+▶ YouTube @xczphysics ◉ Livestream Everyday
+ - to explore fleeting opportunities amidst the time flow
+ - to flourish my inner orchard by tackling challenges
+ - to retrace the footprints of my lifelong expeditions
+ - to capture, document, and share my growth with you!
+
+🙋🏻‍♂️ Feel free to 
+💬 interact with me on LinkedIn, YouTube, or Twitter, 
+👁 or simply observe my "wave function" livestreaming, 
+🕓 at any time! (to check if ⇖ψ⇗ collapses :) 
+🗣 I'm excited about hearing your voice!
+
+░░░　ⒶⒸⒶⒹⒺⓂⒾⒸ　ⒷⒶⒸⓀⒼⓇⓄⓊⓃⒹ　░░░
+
+✎ I'm currently a PhD candidate 25.5' @ CEAS, NJU
+
+㊫ 27' - Optical Engineering - PhD @ CEAS, NJU
+★ CEAS - College of Engineering & Applied Sciences 
+★ NJU - Nanjing University @ JiangSu, China
+
+㊫ 22' - Applied Physics - BSc @ CS, NEU
+★ CS - College of Science
+★ NEU - Northeastern University @ ShenYang, China
+
+
+
+
+
